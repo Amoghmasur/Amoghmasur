@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amoghmasur
-- 👀 I’m interested in Python full stack developer 
-- 🌱 I’m currently learning Python,AWS cloud computing 
+- 👀 I’m  Python full stack developer 
+- 🌱 I’m currently learning Python,AWS cloud computing,reactjs 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...https://www.linkedin.com/in/amogh-m-8b7092189
 
 <!---
 Amoghmasur/Amoghmasur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
