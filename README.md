@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amoghmasur
 - 👀 I’m  Python full stack developer 
 - 🌱 I’m currently learning Python,AWS cloud computing,reactjs 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Frontend Projects
 - 📫 How to reach me ...https://www.linkedin.com/in/amogh-m-8b7092189
 
 <!---
