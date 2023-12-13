@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @Amoghmasur
 - 👀 I’m  Python full stack developer 
-- 🌱 I’m currently learning Python,AWS cloud computing,reactjs 
+- 🌱 I’m currently learning Python,AWS Cloud Computing,Reactjs 
 - 💞️ I’m looking to collaborate on ...Frontend Projects
 - 📫 How to reach me ...https://www.linkedin.com/in/amogh-m-8b7092189
 
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Chetan.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Amogh.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A passionate Full Stack Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
 <div align='center'>
