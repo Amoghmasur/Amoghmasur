@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amoghmasur
-- 👀 I’m  Python full stack developer 
-- 🌱 I’m currently learning Python,AWS Cloud Computing,Reactjs 
+- 👀 I’m  Python full stack developer
+- 🌱 I’m currently learning Python,AWS Cloud Computing,Reactjs
 - 💞️ I’m looking to collaborate on ...Frontend Projects
 - 📫 How to reach me ...https://www.linkedin.com/in/amogh-m-8b7092189
 
@@ -63,7 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amoghmasur/amoghmasur/output/snake.svg" alt="Snake animation" />
 
 ###
 
