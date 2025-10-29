@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Full Stack Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A passionate Software Development Test Engineer <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
 🔭 I’m currently working on **Python Project and React Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
